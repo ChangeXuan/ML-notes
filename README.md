@@ -5,7 +5,7 @@
 
 
 
-![](images/page5.jpg)
+![](images/page5.jpg?imageMogr2/auto-orient)
 
 
 
