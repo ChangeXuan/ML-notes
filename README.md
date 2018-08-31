@@ -1,5 +1,5 @@
 # ML-notes
 
 <p align="center">
-  ![](images/test.jpg)
+  <img src="https://github.com/ChangeXuan/ML-notes/edit/master/images/112211.jpg">
 </p>
