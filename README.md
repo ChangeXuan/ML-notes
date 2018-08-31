@@ -1,5 +1,5 @@
 # ML-notes
 
 <p align="center">
-  <img src="images/test.jpg">
+  ![](images/test.jpg)
 </p>
