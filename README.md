@@ -1,13 +1,13 @@
 # ML-notes
 
 <p>
-  <img src="https://github.com/ChangeXuan/ML-notes/tree/master/images/page5.jpg">
+  <img src="https://github.com/ChangeXuan/ML-notes/blob/master/images/page5.jpg">
 </p>
 
 
 
 
-![](images/page5.jpg?imageMogr2/auto-orient)
+![](images/page5.jpg)
 
 
 
